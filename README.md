@@ -1,7 +1,7 @@
 # PowerBI-Project
 Designed and implemented an interactive dashboard in Power BI to examine the sales performance of an e-commerce business, delivering meaningful insights to support strategic, data-driven decisions and accelerate business expansion.
 
-Key Goals:
+1.Key Goals:
 
 Monitored overall revenue and sales trends across various time periods.
 
@@ -15,7 +15,7 @@ Assessed profit margins along with cost analysis.
 
 Showcased vital KPIs including Total Revenue, Order Count, Profit, Average Order Value, and Customer Retention Percentage.
 
-Tools & Methods Applied:
+2.Tools & Methods Applied:
 
 Power BI Desktop for data visualization and report building.
 
